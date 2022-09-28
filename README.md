@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Login_SignUp_UI
+>>>>>>> b84e1268dc16e7595a20edebc9892621460e505f
